@@ -1,0 +1,22 @@
+body
+{
+    background-color:#BBDEFB;
+}
+h1
+{
+    color:#DD2C00;
+    font-family: 'Oswald', sans-serif;
+}
+h3
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:firebrick;
+}
+.buttonstop
+{
+    padding:5px;
+    border-radius:5px;
+    background-color:#C5E1A5;
+    font-family:'Oswald', sans-serif;
+    font-size:15px;
+}
